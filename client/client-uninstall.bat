@@ -1,0 +1,1 @@
+wscript client.js /do:uninstall
